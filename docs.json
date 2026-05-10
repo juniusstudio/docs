@@ -48,11 +48,12 @@
               "ai-tools/windsurf"
             ]
           }
-        ]
+        ],
+        "icon": "library-big"
       },
       {
         "tab": "Changelog",
-        "icon": "keyframe-align-horizontal",
+        "icon": "asterisk",
         "pages": [
           "untitled-page"
         ]
@@ -93,7 +94,7 @@
     "default": "system"
   },
   "icons": {
-    "library": "tabler"
+    "library": "lucide"
   },
   "interaction": {
     "drilldown": false
