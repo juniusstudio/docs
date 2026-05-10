@@ -49,12 +49,19 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Changelog",
+        "icon": "keyframe-align-horizontal",
+        "pages": [
+          "untitled-page"
+        ]
       }
     ]
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/light.svg"
+    "dark": "/logo/dark.svg"
   },
   "navbar": {
     "links": [],
@@ -103,6 +110,7 @@
   "background": {
     "color": {
       "dark": "#0f0c11"
-    }
+    },
+    "decoration": "gradient"
   }
 }
