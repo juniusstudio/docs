@@ -112,6 +112,9 @@
     "color": {
       "dark": "#0f0c11"
     },
-    "decoration": "gradient"
+    "decoration": "grid"
+  },
+  "metadata": {
+    "timestamp": false
   }
 }
