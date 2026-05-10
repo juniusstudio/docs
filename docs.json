@@ -55,7 +55,7 @@
         "tab": "Changelog",
         "icon": "asterisk",
         "pages": [
-          "untitled-page"
+          "changelog"
         ]
       }
     ]
