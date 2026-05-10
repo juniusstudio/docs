@@ -3,11 +3,14 @@
   "theme": "almond",
   "name": "Imitari Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#ad5bff",
+    "light": "#ad5bff",
+    "dark": "#ad5bff"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/favicon.svg",
+    "dark": "/favicon.svg"
+  },
   "navigation": {
     "tabs": [
       {
@@ -81,5 +84,25 @@
   "description": "Discover how to simplify storage, processing, and delivery with Imitari's powerful, developer-friendly infrastructure.",
   "appearance": {
     "default": "system"
+  },
+  "icons": {
+    "library": "tabler"
+  },
+  "interaction": {
+    "drilldown": false
+  },
+  "seo": {
+    "indexing": "all"
+  },
+  "fonts": {
+    "family": "Satoshi",
+    "weight": 500,
+    "source": "https://dash.imitari.app/fonts/Satoshi-Variable.woff2",
+    "format": "woff2"
+  },
+  "background": {
+    "color": {
+      "dark": "#0f0c11"
+    }
   }
 }
